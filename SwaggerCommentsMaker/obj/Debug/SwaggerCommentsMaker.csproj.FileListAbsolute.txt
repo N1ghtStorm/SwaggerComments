@@ -1,0 +1,10 @@
+C:\Users\N1ght\source\repos\SwaggerCommentsMaker\SwaggerCommentsMaker\bin\Debug\SwaggerCommentsMaker.exe.config
+C:\Users\N1ght\source\repos\SwaggerCommentsMaker\SwaggerCommentsMaker\bin\Debug\SwaggerCommentsMaker.exe
+C:\Users\N1ght\source\repos\SwaggerCommentsMaker\SwaggerCommentsMaker\bin\Debug\SwaggerCommentsMaker.pdb
+C:\Users\N1ght\source\repos\SwaggerCommentsMaker\SwaggerCommentsMaker\obj\Debug\SwaggerCommentsMaker.csprojAssemblyReference.cache
+C:\Users\N1ght\source\repos\SwaggerCommentsMaker\SwaggerCommentsMaker\obj\Debug\SwaggerCommentsMaker.MainForm.resources
+C:\Users\N1ght\source\repos\SwaggerCommentsMaker\SwaggerCommentsMaker\obj\Debug\SwaggerCommentsMaker.Properties.Resources.resources
+C:\Users\N1ght\source\repos\SwaggerCommentsMaker\SwaggerCommentsMaker\obj\Debug\SwaggerCommentsMaker.csproj.GenerateResource.cache
+C:\Users\N1ght\source\repos\SwaggerCommentsMaker\SwaggerCommentsMaker\obj\Debug\SwaggerCommentsMaker.csproj.CoreCompileInputs.cache
+C:\Users\N1ght\source\repos\SwaggerCommentsMaker\SwaggerCommentsMaker\obj\Debug\SwaggerCommentsMaker.exe
+C:\Users\N1ght\source\repos\SwaggerCommentsMaker\SwaggerCommentsMaker\obj\Debug\SwaggerCommentsMaker.pdb
