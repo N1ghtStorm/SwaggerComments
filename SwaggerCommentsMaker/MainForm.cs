@@ -14,6 +14,7 @@ namespace SwaggerCommentsMaker
     public partial class MainForm : Form
     {
         private readonly string _defaultPhrase;
+        public string SpacesPhrase { get; set; }
         public MainForm()
         {
             InitializeComponent();
@@ -34,7 +35,7 @@ namespace SwaggerCommentsMaker
                 while ((line = reader.ReadLine()) != null)
                 {
                     // Do something with the line
-                    line = _defaultPhrase + line;
+                    line = _defaultPhrase + SpacesPhrase + line;
 
                     if (!string.IsNullOrWhiteSpace(OutputTextBox.Text))
                     {
@@ -53,6 +54,16 @@ namespace SwaggerCommentsMaker
         {
             InputTextBox.Clear();
             OutputTextBox.Clear();
+        }
+
+        private void AcceptAddPhrButton_Click(object sender, EventArgs e)
+        {
+            SpacesPhrase = PhraseTextBox.Text;
+        }
+
+        private void PhraseTextBox_TextChanged(object sender, EventArgs e)
+        {
+            PhrPreviewLabel.Text = "\"///" + PhraseTextBox.Text + "\"";
         }
     }
 }

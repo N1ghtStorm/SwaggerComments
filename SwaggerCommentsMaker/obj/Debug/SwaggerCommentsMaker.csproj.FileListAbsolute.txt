@@ -8,3 +8,13 @@ C:\Users\N1ght\source\repos\SwaggerCommentsMaker\SwaggerCommentsMaker\obj\Debug\
 C:\Users\N1ght\source\repos\SwaggerCommentsMaker\SwaggerCommentsMaker\obj\Debug\SwaggerCommentsMaker.csproj.CoreCompileInputs.cache
 C:\Users\N1ght\source\repos\SwaggerCommentsMaker\SwaggerCommentsMaker\obj\Debug\SwaggerCommentsMaker.exe
 C:\Users\N1ght\source\repos\SwaggerCommentsMaker\SwaggerCommentsMaker\obj\Debug\SwaggerCommentsMaker.pdb
+C:\Projects\SwaggerCommentsMaker\SwaggerComments\SwaggerCommentsMaker\bin\Debug\SwaggerCommentsMaker.exe.config
+C:\Projects\SwaggerCommentsMaker\SwaggerComments\SwaggerCommentsMaker\bin\Debug\SwaggerCommentsMaker.exe
+C:\Projects\SwaggerCommentsMaker\SwaggerComments\SwaggerCommentsMaker\bin\Debug\SwaggerCommentsMaker.pdb
+C:\Projects\SwaggerCommentsMaker\SwaggerComments\SwaggerCommentsMaker\obj\Debug\SwaggerCommentsMaker.csprojAssemblyReference.cache
+C:\Projects\SwaggerCommentsMaker\SwaggerComments\SwaggerCommentsMaker\obj\Debug\SwaggerCommentsMaker.MainForm.resources
+C:\Projects\SwaggerCommentsMaker\SwaggerComments\SwaggerCommentsMaker\obj\Debug\SwaggerCommentsMaker.Properties.Resources.resources
+C:\Projects\SwaggerCommentsMaker\SwaggerComments\SwaggerCommentsMaker\obj\Debug\SwaggerCommentsMaker.csproj.GenerateResource.cache
+C:\Projects\SwaggerCommentsMaker\SwaggerComments\SwaggerCommentsMaker\obj\Debug\SwaggerCommentsMaker.csproj.CoreCompileInputs.cache
+C:\Projects\SwaggerCommentsMaker\SwaggerComments\SwaggerCommentsMaker\obj\Debug\SwaggerCommentsMaker.exe
+C:\Projects\SwaggerCommentsMaker\SwaggerComments\SwaggerCommentsMaker\obj\Debug\SwaggerCommentsMaker.pdb
